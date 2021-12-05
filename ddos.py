@@ -2,6 +2,8 @@ import time
 import socket
 import sys
 import _thread
+import os
+os.system(clear)
 print ("HACKERZARMY-FREE-HACKINGTOOLS-MILADHACKER")
 print ("                                 HACKING")
 print ("                                FREE")
@@ -20,6 +22,10 @@ print ("      HACKER")
 print ("     Z")
 print (" ARMY")
 print ("HACKERZARMY-FREE-HACKINGTOOLS-MILADHACKER")
+print ("")
+print ("")
+print ("")
+print ("")
 site = input("@milad_hacker|Enter URL site => ")
 thread_count = input("@milad_hacker|Enter your thread => ")
 ip = socket.gethostbyname (site)
